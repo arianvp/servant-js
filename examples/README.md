@@ -9,7 +9,7 @@ In addition to that, it shows how you can generate the jquery-powered javascript
 To see this all in action, simply run:
 
 ``` bash
-$ cabal run counter
+$ cabal new-run counter --flags example
 ```
 
 And point your browser to [http://localhost:8080/index.html](http://localhost:8080/index.html).
